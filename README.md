@@ -13,7 +13,9 @@ __TechStack__: OpenCV, Tensorflow, NumPy, Python
 Here are some outputs:
 
 <p float="left">
-<img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(435).png" width="200" height="400" />
+<img src="https://github.com/vanshu25/Sign-Language-Detection/blob/main/outputs/Screenshot%20(424).png" width="300" height="300" />
+<img src="https://github.com/vanshu25/Sign-Language-Detection/blob/main/outputs/Screenshot%20(443).png" width="300" height="300" />
+<img src="https://github.com/vanshu25/Sign-Language-Detection/blob/main/outputs/Screenshot%20(444).png" width="300" height="300" />
 
 
 </p>
