@@ -4,7 +4,9 @@ In this sign language detection project, I created a sign detector, which detect
 
 __TechStack__: OpenCV, Tensorflow, NumPy, Python
 
-* Extract the SAHAYAK.zip file and open the extracted folder "SAHAYAK" in the Android Studio. You will see all the files and then you can just run the app in the Studio. You will see the home page of app where you can press on START button to proceed. Then you have to answer questions in order to see the prediction. 
+It is divided into three parts:
+
+* Creating the dataset: 
 
 
 
