@@ -4,19 +4,17 @@ In this sign language detection project, I created a sign detector, which detect
 
 __TechStack__: OpenCV, Tensorflow, NumPy, Python
 
-It is divided into three parts:
 
-* Creating the dataset: 
+* For creating the datasets, I collected images OpenCV and stored them in two folders: train and test. Then I performed labelling of these images using LabelImg tool. You can see the implementation of this part in data.py file.
 
+* Model training and detection in real time is implemented in SignLanguageDetection.py file.
 
 
 Here are some outputs:
 
 <p float="left">
 <img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(435).png" width="200" height="400" />
-<img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(439).png"  width="200" height="400" />
-<img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(440).png"  width="200" height="400" />
-<img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(442).png"  width="200" height="400" />
+
 
 </p>
 
